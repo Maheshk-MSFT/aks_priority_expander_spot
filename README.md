@@ -1,4 +1,4 @@
-# AKS PRIORITY EXPANDER - SPOT INSTANCES
+# AKS PRIORITY EXPANDER - SPOT INSTANCES (when scaling, always start leverage spot nodes first and then dedicated if there is no spot)
 
 https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/spot-priority-mix?tabs=template-1
 
